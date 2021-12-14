@@ -5,4 +5,4 @@ This directory contains a semantic segmentation proposal for the FASSEG human fa
 
 This segmentation proposes to differentiate between certain elements of the face such as the eyes (e.g. right eye - left eye) based on the Frontal 01 dataset from the initial FASSEG dataset.
 
-![alt text](https://github.com/Jeremy-Chopin/FASSEG-instances/src/fasseg_chgt.png?raw=true)
+![alt text](https://github.com/Jeremy-Chopin/FASSEG-instances/blob/main/src/fasseg_chgt.png?raw=true)
