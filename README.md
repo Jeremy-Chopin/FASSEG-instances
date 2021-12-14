@@ -5,10 +5,9 @@ This directory contains a semantic segmentation proposal for the FASSEG human fa
 
 ## Dataset
 
-We propose to differentiate between certain elements of the human face such as the eyes (e.g. right eye - left eye).
+We propose to differentiate certain elements of the human face such as the eyes (for example right eye - left eye).
 
-The images contains value un the interval [0,8] where : 
-
+The images contain values in the interval [0,8] where : 
 - 0: background
 - 1: hair
 - 2: face
