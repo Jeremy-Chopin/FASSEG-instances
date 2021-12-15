@@ -1,4 +1,4 @@
-# FASSEG-instances
+# FASSEG-Instances
 This project provides an instance segmentation of the FASSEG human face dataset (https://github.com/massimomauro/FASSEG-repository).
 
 ![alt text](https://github.com/Jeremy-Chopin/FASSEG-instances/blob/main/src/fasseg_chgt.png?raw=true)
