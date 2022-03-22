@@ -17,3 +17,7 @@ Images contain integer values in the interval [0,8] :
 - 6: left eye
 - 7: nose
 - 8: mouth
+
+## Reference
+
+J. Chopin, J.-B. Fasquel, H. Mouchere, R. Dahyot, I Bloch. Semantic image segmentation based on spatial relationships and inexact graph matching, International Conference on Image Processing Theory, Tools and Applications (IPTA), Paris, France, 2020
